@@ -1,9 +1,7 @@
-# aula-01-1tdspo
-## Primeira aula de Front FIAP
+1o - COMMIT
 
+# 🚀 Meu Repositório
 
---Na aula de front o professor Ale, nos ensionou sobre git. Ensino que não podemos adicionar arquivos que estejam em lugares como cloud, pendrive e etc... 
+Olá, mundo! 👋
 
-Ele também ensino que podemos facilitar na hora do add e commit, juntando os dois em uma só linha. Ex: git commit -am "..."
-
-Ele é corinthiano  
+Este é o meu repositório no GitHub. Estou começando minha jornada no mundo da programação e este repositório servirá para praticar, aprender e compartilhar meu progresso.
